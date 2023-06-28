@@ -14,6 +14,11 @@ The App does not use cookies or any tracking mechanisms to collect information a
 The App does not utilize any third-party services or partners for data collection or processing.
 
 
+## Children's Privacy
+
+The App is designed to be safe for users of all ages, including children. We do not knowingly collect any personal information from children under the age of 13. If you are a parent or guardian and believe that your child has provided personal information, please contact us, and we will promptly delete such information from our records.
+
+
 ## Links to Third Party Websites
 
 The App may contain links to third-party websites or services that are not owned or controlled by us. We are not responsible for the privacy practices or the content of these third-party sites. We encourage you to review the privacy policies of any third-party sites you visit.
